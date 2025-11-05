@@ -1,6 +1,6 @@
 # TP-DS-ShelterCare
-Alumno: Juan Alejo Patiño
-Legajo: 61160
+- Alumno: Juan Alejo Patiño
+- Legajo: 61160
 
 # ShelterCare — Demo Educativa
 
