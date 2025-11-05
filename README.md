@@ -43,6 +43,5 @@ Qué esperar al correr la demo
 
 -----------------------------
 # TP-DS-ShelterCare
-## Juan Alejo Patiño
-## - Ingeniería Informática
-## - 61160
+- Juan Alejo Patiño
+- 61160
