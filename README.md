@@ -1,3 +1,7 @@
+# TP-DS-ShelterCare
+## Alumno: Juan Alejo Patiño
+## Legajo: 61160
+
 # ShelterCare — Demo Educativa
 
 Resumen rápido
@@ -40,8 +44,3 @@ Qué esperar al correr la demo
 - El script crea una sede demo, añade personal, ingresa un animal, calcula raciones, registra un examen médico y simula sensores y salud.
 - Los datos se guardan en `data/` (por ejemplo `animales.json`, `inventario.json`, `adopciones.json`, `cuarentenas.json`).
 - La salida en consola está organizada por secciones y contiene JSON formateado para facilitar la lectura.
-
------------------------------
-# TP-DS-ShelterCare
-- Juan Alejo Patiño
-- 61160
