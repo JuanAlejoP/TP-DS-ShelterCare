@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nombre": "Dr. Ana",
+    "rol": "Veterinario",
+    "contacto": {
+      "email": "ana@refugio.org"
+    },
+    "fecha_alta": "2025-11-05",
+    "activo": true
+  }
+]

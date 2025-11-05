@@ -1,0 +1,2 @@
+# Minimal requirements
+# Using standard library only for MVP

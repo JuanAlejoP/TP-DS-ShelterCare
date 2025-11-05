@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "especie": "Dog",
+    "nombre": "Rex",
+    "edad_meses": 12,
+    "sexo": "M",
+    "fecha_ingreso": "2025-11-05",
+    "estado": "activo",
+    "zona": "kennels",
+    "peso_kg": 12.552594594556721
+  }
+]

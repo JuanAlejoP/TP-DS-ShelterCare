@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "items": [
+      {
+        "sku": "MED-X",
+        "nombre": "Antibiótico X",
+        "cantidad_actual": 9,
+        "sugerido": 11
+      }
+    ],
+    "proveedor": null,
+    "estado": "pendiente"
+  },
+  {
+    "id": 2,
+    "items": [
+      {
+        "sku": "MED-X",
+        "nombre": "Antibiótico X",
+        "cantidad_actual": 9,
+        "sugerido": 11
+      }
+    ],
+    "proveedor": null,
+    "estado": "pendiente"
+  },
+  {
+    "id": 3,
+    "items": [
+      {
+        "sku": "MED-X",
+        "nombre": "Antibiótico X",
+        "cantidad_actual": 9,
+        "sugerido": 11
+      }
+    ],
+    "proveedor": null,
+    "estado": "pendiente"
+  },
+  {
+    "id": 4,
+    "items": [
+      {
+        "sku": "MED-X",
+        "nombre": "Antibiótico X",
+        "cantidad_actual": 9,
+        "sugerido": 11
+      }
+    ],
+    "proveedor": null,
+    "estado": "pendiente"
+  },
+  {
+    "id": 5,
+    "items": [
+      {
+        "sku": "MED-X",
+        "nombre": "Antibiótico X",
+        "cantidad_actual": 9,
+        "sugerido": 11
+      }
+    ],
+    "proveedor": null,
+    "estado": "pendiente"
+  },
+  {
+    "id": 6,
+    "items": [
+      {
+        "sku": "MED-X",
+        "nombre": "Antibiótico X",
+        "cantidad_actual": 9,
+        "sugerido": 11
+      }
+    ],
+    "proveedor": null,
+    "estado": "pendiente"
+  }
+]

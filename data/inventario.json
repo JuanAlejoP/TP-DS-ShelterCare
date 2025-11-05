@@ -1,0 +1,10 @@
+[
+  {
+    "sku": "MED-X",
+    "nombre": "Antibiótico X",
+    "categoria": "Medicamento",
+    "cantidad": 10,
+    "unidad": "botes",
+    "punto_reorden": 10
+  }
+]
